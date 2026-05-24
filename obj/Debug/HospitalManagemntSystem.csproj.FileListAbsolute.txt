@@ -1,0 +1,7 @@
+C:\Users\786 TRADERS\Desktop\HospitalManagemntSystem\HospitalManagemntSystem\bin\Debug\HospitalManagemntSystem.exe.config
+C:\Users\786 TRADERS\Desktop\HospitalManagemntSystem\HospitalManagemntSystem\bin\Debug\HospitalManagemntSystem.exe
+C:\Users\786 TRADERS\Desktop\HospitalManagemntSystem\HospitalManagemntSystem\bin\Debug\HospitalManagemntSystem.pdb
+C:\Users\786 TRADERS\Desktop\HospitalManagemntSystem\HospitalManagemntSystem\obj\Debug\HospitalManagemntSystem.csproj.AssemblyReference.cache
+C:\Users\786 TRADERS\Desktop\HospitalManagemntSystem\HospitalManagemntSystem\obj\Debug\HospitalManagemntSystem.csproj.CoreCompileInputs.cache
+C:\Users\786 TRADERS\Desktop\HospitalManagemntSystem\HospitalManagemntSystem\obj\Debug\HospitalManagemntSystem.exe
+C:\Users\786 TRADERS\Desktop\HospitalManagemntSystem\HospitalManagemntSystem\obj\Debug\HospitalManagemntSystem.pdb
