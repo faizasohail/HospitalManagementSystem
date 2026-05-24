@@ -1,0 +1,15 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS cache
+.vs/
+
+# Sensitive data (optional, agar koi private info store karte ho)
+*.txt
+!DoctorsList.txt
+!doctors/*.txt

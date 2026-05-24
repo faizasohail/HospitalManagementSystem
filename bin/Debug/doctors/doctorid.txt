@@ -1,3 +1,0 @@
-1 = Dr. Ali
-2 = Dr. Sara
-3 = Dr. Ahmed
