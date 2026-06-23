@@ -1,35 +1,44 @@
 # 🏥 Hospital Management System (Console Application)
 
-## 📌 Project Overview
-Yeh ek C# console-based application hai jo hospital management ke liye banayi gayi hai. Isme do major features hain:
-- **Doctor Appointment System**
-- **Blood Bank Management System**
+📌 **Project Overview**
+This is a C# console-based application developed for hospital management. It includes two major modules:
 
-## ✨ Features
+* Doctor Appointment System
+* Blood Bank Management System
 
-### 👨‍⚕️ Doctor's Appointment
-- Doctor ki appointment le sakte ho (Monday to Friday)
-- CNIC se appointment search kar sakte ho
-- Sab appointments ki list dekh sakte ho
-- Appointment ki receipt automatically generate hoti hai
+✨ **Features**
 
-### 🩸 Blood Bank
-- Blood donate kar sakte ho
-- Blood request kar sakte ho
-- Donors ki list dekh sakte ho
-- Requests ki list dekh sakte ho
-- Receipt generate hoti hai donate/request par
+👨‍⚕️ **Doctor Appointment System**
 
-## 🛠️ Technologies Used
-- **Language:** C#
-- **Framework:** .NET Framework 4.7.2
-- **Storage:** Local File System (Text Files)
+* Book doctor appointments (Monday to Friday)
+* Search appointments using CNIC
+* View all appointments list
+* Automatically generates appointment receipts
 
-## 🚀 How to Run
+🩸 **Blood Bank Management System**
 
-1. **Visual Studio** mein project open karo
-2. Build karo (Ctrl+Shift+B)
-3. Run karo (Ctrl+F5)
-4. Console menu follow karo
+* Donate blood
+* Request blood
+* View list of donors
+* View list of blood requests
+* Automatically generates receipts for donations and requests
 
-## 📁 Folder Structure (Auto-created)
+🛠️ **Technologies Used**
+
+* Language: C#
+* Framework: .NET Framework 4.7.2
+* Storage: Local File System (Text Files)
+
+🚀 **How to Run**
+
+* Open the project in Visual Studio
+* Build the solution (Ctrl + Shift + B)
+* Run the project (Ctrl + F5)
+* Follow the console menu options
+
+📁 **Folder Structure**
+
+* Automatically created during runtime (for storing appointments, donors, and requests)
+
+📌 **About**
+A C# console-based Hospital Management System with Appointment Booking and Blood Bank features.
